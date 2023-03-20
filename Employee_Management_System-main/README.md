@@ -12,16 +12,8 @@ minimum.
 • Use LINQ to query, insert, update, delete your collections.
 • Your console application must have a hierarchy of menus and run continuously until the 
 person quits the application:
-• Example:
-• Menu 1:
-• Welcome, please choose a command:
-• Press 1 to modify employees
-• Press 2 to add payroll
-• Press 3 to view vacation days
-• Press 4 to exit program
-• Menu 2: (Employees)
-• Press 1 to list all employees
-• Press 2 to add a new employee
-• Press 3 to update …
-• Press 4 to delete …
-Press 5 to return to main menu.
+![Screenshot (2287)](https://user-images.githubusercontent.com/104863304/226480866-53b5c418-e539-48a7-9563-2174b12aaf67.png)
+![Screenshot (2286)](https://user-images.githubusercontent.com/104863304/226480742-6308e202-0ab2-4721-8240-2c9192ed7f77.png)
+![Screenshot (2288)](https://user-images.githubusercontent.com/104863304/226480934-c6258d87-4d2b-492a-86a2-058be38d40bd.png)
+![Screenshot (2289)](https://user-images.githubusercontent.com/104863304/226481006-8a973219-6c77-4f02-85dd-c2a3a86994fe.png)
+
